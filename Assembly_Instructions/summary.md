@@ -23,6 +23,10 @@
 
 ---
 
+Warning: These are only few instruction.
+
+---
+
 #### MOV Instruction
 
 Syntax: MOV [Destination],[Source]
