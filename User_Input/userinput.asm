@@ -29,7 +29,7 @@ printing_hello:
 	syscall
 
 printing_userinput:
-	;
+	; printing user input
 	mov rax,0x01
 	mov rdi,0x01
 	mov rsi,input
